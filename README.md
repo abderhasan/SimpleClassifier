@@ -1,12 +1,6 @@
 # SimpleClassifier
 
-<div align="center">
-  <img src="https://github.com/abderhasan/radiologist_in_the_loop_ai/raw/main/imgs/radiologist_in_the_loop_cover.png" alt="Radiologist-in-the-Loop AI" width="500"/>
-</div>
-
-This is the official GitHub repository for the [Radiologist-in-the-Loop AI Tutorial](https://radiologistintheloop.ai/) at MICCAI 2023! This repository serves as a companion to the tutorial, providing resources, code examples, and materials to enhance your learning experience. 🧠💻📚
-
-**⚠️Attention⚠️** `Please keep an 👁️ on this repository, as it will be regularly updated with relevant content.`
+This is the official GitHub repository for the paper: Simple is More: Efficient Liver View Classification in Ultrasound Images Using Minimal Labeled Data and Simple Neural Network Architecture.
 
 ## Setup
 
