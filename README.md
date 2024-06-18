@@ -4,7 +4,7 @@ This is the official GitHub repository for the paper: Simple is More: Efficient 
 
 ## Setup
 
-The code in this repository is meant for performing binary classification, which involves distinguishing between two classes. In the context of the tutorial, the classification task focused on identifying whether a given ultrasound image contains the liver region or not. 
+The code in this repository is meant for performing binary classification, which involves distinguishing between two classes. In the context of the paper, the classification task focused on identifying whether a given ultrasound image contains the liver region or not. 
 
 Assume your class names are `A` and `B`. In your main project folder, do the following:
 
