@@ -1,6 +1,6 @@
 # SimpleClassifier
 
-This is the official GitHub repository for the paper: Simple is More: Efficient Liver View Classification in Ultrasound Images Using Minimal Labeled Data and Simple Neural Network Architecture.
+This is the official GitHub repository for the paper: "Simple is More: Efficient Liver View Classification in Ultrasound Images Using Minimal Labeled Data and Simple Neural Network Architecture",vpublished at the Data Engineering in Medical Imaging (DEMI) workshop @ MICCAI 2024!
 
 ## Setup
 
